@@ -1,0 +1,43 @@
+.corpo{
+	margin-top: 100px;
+	background:white;
+}
+
+#titulo-pagina{
+	font-size: 35px;
+	letter-spacing: -0.04em;
+	color: #E8DAEF;
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.laranja{
+	color: #FF4F00;
+}
+body{
+	background:#FAFAFA;
+}
+
+.centralizar{
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+h3{
+
+	color:#E8DAEF;
+}
+
+p{
+	color: white;
+}
+
+.background-laranja{
+	background:#FF4F00;
+	border-top: 2px solid white;
+
+}
+
+.subtitulo{
+	color: #FF4F00;
+}

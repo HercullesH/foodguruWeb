@@ -1,0 +1,34 @@
+h1{
+	color: #FF4F00;
+	font-size: 40px;
+}
+
+.principal{
+	margin-top: 100px;
+}
+
+.centralizar{
+	text-align: center;
+}
+.background-laranja{
+	margin-top: 15px;
+	background:#FF4F00;
+	border-bottom: #0000FF solid 2px;
+
+	border-left:  white solid 2px;
+}
+
+p{
+	text-align: center;
+	color: white;
+}
+h2{
+	color:#E8DAEF;
+	text-align: center;
+}
+#tabela{
+	margin-top: 30px;
+}
+.vermelho{
+	color: red;
+}

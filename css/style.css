@@ -1,0 +1,47 @@
+                                /* navbar*/
+.navbar-toggler-icon{
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.tema-navbar{
+	background: #FF4F00;
+	border-bottom: solid #0000FF 2px;
+	display: block;
+}
+.logo{
+	border:1px solid #FF4F00;
+}
+.logo:hover{
+	border:1px solid #FFF;
+	transition:border 0.4s;
+}
+.nav-item a{
+	text-decoration: none;
+	padding: 5px;
+	margin:0px 5px;
+	border-radius: 5px;
+}
+
+.nav-item a:link{
+	color: white;
+}
+.nav-item a:visited{
+	color: white;
+}
+.nav-item a:hover{
+	color: #FF4F00;
+	background: white;
+	transition: color 0.4s, background 0.4s;
+}
+.nav-item a:active{
+	color: black;
+}
+
+.img-logo{
+	width: 66.125px;
+	height: 53px;
+
+}
+
+
+/* rodape*/
+
